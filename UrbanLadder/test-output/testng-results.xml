@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="136940" started-at="2022-05-20T13:28:01 IST" finished-at="2022-05-20T13:30:18 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="136940" started-at="2022-05-20T13:28:01 IST" finished-at="2022-05-20T13:30:18 IST">
+      <class name="runner.TestRunner">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:runner.TestRunner@5f3a4b84]" name="beforeTest" is-config="true" duration-ms="1102" started-at="2022-05-20T13:28:01 IST" finished-at="2022-05-20T13:28:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="Beforemethod()[pri:0, instance:runner.TestRunner@5f3a4b84]" name="Beforemethod" is-config="true" duration-ms="5612" started-at="2022-05-20T13:28:02 IST" finished-at="2022-05-20T13:28:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforemethod -->
+        <test-method status="PASS" signature="test1_SignUp()[pri:0, instance:runner.TestRunner@5f3a4b84]" name="test1_SignUp" duration-ms="4867" started-at="2022-05-20T13:28:07 IST" finished-at="2022-05-20T13:28:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1_SignUp -->
+        <test-method status="PASS" signature="terminateDriver()[pri:0, instance:runner.TestRunner@5f3a4b84]" name="terminateDriver" is-config="true" duration-ms="4571" started-at="2022-05-20T13:28:12 IST" finished-at="2022-05-20T13:28:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateDriver -->
+        <test-method status="PASS" signature="Beforemethod()[pri:0, instance:runner.TestRunner@5f3a4b84]" name="Beforemethod" is-config="true" duration-ms="2959" started-at="2022-05-20T13:28:17 IST" finished-at="2022-05-20T13:28:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforemethod -->
+        <test-method status="PASS" signature="test2_LogIn()[pri:1, instance:runner.TestRunner@5f3a4b84]" name="test2_LogIn" duration-ms="5142" started-at="2022-05-20T13:28:20 IST" finished-at="2022-05-20T13:28:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2_LogIn -->
+        <test-method status="PASS" signature="terminateDriver()[pri:0, instance:runner.TestRunner@5f3a4b84]" name="terminateDriver" is-config="true" duration-ms="4285" started-at="2022-05-20T13:28:25 IST" finished-at="2022-05-20T13:28:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateDriver -->
+        <test-method status="PASS" signature="Beforemethod()[pri:0, instance:runner.TestRunner@5f3a4b84]" name="Beforemethod" is-config="true" duration-ms="2850" started-at="2022-05-20T13:28:29 IST" finished-at="2022-05-20T13:28:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforemethod -->
+        <test-method status="PASS" signature="test3_SofaBed()[pri:2, instance:runner.TestRunner@5f3a4b84]" name="test3_SofaBed" duration-ms="7567" started-at="2022-05-20T13:28:32 IST" finished-at="2022-05-20T13:28:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3_SofaBed -->
+        <test-method status="PASS" signature="terminateDriver()[pri:0, instance:runner.TestRunner@5f3a4b84]" name="terminateDriver" is-config="true" duration-ms="4249" started-at="2022-05-20T13:28:40 IST" finished-at="2022-05-20T13:28:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateDriver -->
+        <test-method status="PASS" signature="Beforemethod()[pri:0, instance:runner.TestRunner@5f3a4b84]" name="Beforemethod" is-config="true" duration-ms="2836" started-at="2022-05-20T13:28:44 IST" finished-at="2022-05-20T13:28:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforemethod -->
+        <test-method status="PASS" signature="test4_StoreName()[pri:3, instance:runner.TestRunner@5f3a4b84]" name="test4_StoreName" duration-ms="2082" started-at="2022-05-20T13:28:47 IST" finished-at="2022-05-20T13:28:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4_StoreName -->
+        <test-method status="PASS" signature="terminateDriver()[pri:0, instance:runner.TestRunner@5f3a4b84]" name="terminateDriver" is-config="true" duration-ms="280" started-at="2022-05-20T13:28:49 IST" finished-at="2022-05-20T13:28:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateDriver -->
+        <test-method status="PASS" signature="Beforemethod()[pri:0, instance:runner.TestRunner@5f3a4b84]" name="Beforemethod" is-config="true" duration-ms="2800" started-at="2022-05-20T13:28:49 IST" finished-at="2022-05-20T13:28:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforemethod -->
+        <test-method status="PASS" signature="test5_EmiOption()[pri:4, instance:runner.TestRunner@5f3a4b84]" name="test5_EmiOption" duration-ms="3598" started-at="2022-05-20T13:28:52 IST" finished-at="2022-05-20T13:28:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5_EmiOption -->
+        <test-method status="PASS" signature="terminateDriver()[pri:0, instance:runner.TestRunner@5f3a4b84]" name="terminateDriver" is-config="true" duration-ms="4347" started-at="2022-05-20T13:28:55 IST" finished-at="2022-05-20T13:29:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateDriver -->
+        <test-method status="PASS" signature="Beforemethod()[pri:0, instance:runner.TestRunner@5f3a4b84]" name="Beforemethod" is-config="true" duration-ms="2943" started-at="2022-05-20T13:29:00 IST" finished-at="2022-05-20T13:29:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforemethod -->
+        <test-method status="PASS" signature="test6_AddToWishList()[pri:5, instance:runner.TestRunner@5f3a4b84]" name="test6_AddToWishList" duration-ms="12068" started-at="2022-05-20T13:29:03 IST" finished-at="2022-05-20T13:29:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6_AddToWishList -->
+        <test-method status="PASS" signature="terminateDriver()[pri:0, instance:runner.TestRunner@5f3a4b84]" name="terminateDriver" is-config="true" duration-ms="4431" started-at="2022-05-20T13:29:15 IST" finished-at="2022-05-20T13:29:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateDriver -->
+        <test-method status="PASS" signature="Beforemethod()[pri:0, instance:runner.TestRunner@5f3a4b84]" name="Beforemethod" is-config="true" duration-ms="2915" started-at="2022-05-20T13:29:19 IST" finished-at="2022-05-20T13:29:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforemethod -->
+        <test-method status="PASS" signature="test7_RemoveFromWishList()[pri:6, instance:runner.TestRunner@5f3a4b84]" name="test7_RemoveFromWishList" duration-ms="8373" started-at="2022-05-20T13:29:22 IST" finished-at="2022-05-20T13:29:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test7_RemoveFromWishList -->
+        <test-method status="PASS" signature="terminateDriver()[pri:0, instance:runner.TestRunner@5f3a4b84]" name="terminateDriver" is-config="true" duration-ms="4380" started-at="2022-05-20T13:29:31 IST" finished-at="2022-05-20T13:29:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateDriver -->
+        <test-method status="PASS" signature="Beforemethod()[pri:0, instance:runner.TestRunner@5f3a4b84]" name="Beforemethod" is-config="true" duration-ms="2886" started-at="2022-05-20T13:29:35 IST" finished-at="2022-05-20T13:29:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforemethod -->
+        <test-method status="PASS" signature="test8_AddToCart()[pri:7, instance:runner.TestRunner@5f3a4b84]" name="test8_AddToCart" duration-ms="14664" started-at="2022-05-20T13:29:38 IST" finished-at="2022-05-20T13:29:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test8_AddToCart -->
+        <test-method status="PASS" signature="terminateDriver()[pri:0, instance:runner.TestRunner@5f3a4b84]" name="terminateDriver" is-config="true" duration-ms="4403" started-at="2022-05-20T13:29:53 IST" finished-at="2022-05-20T13:29:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateDriver -->
+        <test-method status="PASS" signature="Beforemethod()[pri:0, instance:runner.TestRunner@5f3a4b84]" name="Beforemethod" is-config="true" duration-ms="2798" started-at="2022-05-20T13:29:57 IST" finished-at="2022-05-20T13:30:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforemethod -->
+        <test-method status="PASS" signature="testRemove9_FromCart()[pri:8, instance:runner.TestRunner@5f3a4b84]" name="testRemove9_FromCart" duration-ms="9019" started-at="2022-05-20T13:30:00 IST" finished-at="2022-05-20T13:30:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRemove9_FromCart -->
+        <test-method status="PASS" signature="terminateDriver()[pri:0, instance:runner.TestRunner@5f3a4b84]" name="terminateDriver" is-config="true" duration-ms="253" started-at="2022-05-20T13:30:09 IST" finished-at="2022-05-20T13:30:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateDriver -->
+        <test-method status="PASS" signature="Beforemethod()[pri:0, instance:runner.TestRunner@5f3a4b84]" name="Beforemethod" is-config="true" duration-ms="2831" started-at="2022-05-20T13:30:09 IST" finished-at="2022-05-20T13:30:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforemethod -->
+        <test-method status="PASS" signature="test10_ContactUs()[pri:9, instance:runner.TestRunner@5f3a4b84]" name="test10_ContactUs" duration-ms="1386" started-at="2022-05-20T13:30:12 IST" finished-at="2022-05-20T13:30:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test10_ContactUs -->
+        <test-method status="PASS" signature="terminateDriver()[pri:0, instance:runner.TestRunner@5f3a4b84]" name="terminateDriver" is-config="true" duration-ms="4352" started-at="2022-05-20T13:30:13 IST" finished-at="2022-05-20T13:30:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateDriver -->
+      </class> <!-- runner.TestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

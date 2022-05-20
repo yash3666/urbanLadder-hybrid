@@ -1,0 +1,107 @@
+2022-05-20 15:59:10.312 [main] INFO  HomePage - Clicked On Contact Us in Last Of The Page
+2022-05-20 15:59:10.484 [main] INFO  ContactUsPage - Landed on Contact Us Page
+2022-05-20 15:59:18.906 [main] INFO  HomePage - Clicked On User Icon
+2022-05-20 15:59:19.803 [main] INFO  HomePage - Clicked On Sign Up
+2022-05-20 15:59:22.598 [main] INFO  HomePage - Entered Sign Up email
+2022-05-20 15:59:22.881 [main] INFO  HomePage - Entered Sign up password
+2022-05-20 15:59:24.059 [main] INFO  HomePage - Submitted Sign Up
+2022-05-20 15:59:33.901 [main] INFO  HomePage - Clicked On User Icon
+2022-05-20 15:59:34.277 [main] INFO  HomePage - Clicked On Log In
+2022-05-20 15:59:37.374 [main] INFO  HomePage - Entered Log In Email
+2022-05-20 15:59:37.592 [main] INFO  HomePage - Entered Log In password
+2022-05-20 15:59:39.300 [main] INFO  HomePage - Log In
+2022-05-20 15:59:48.160 [main] INFO  HomePage - CLicked on Living in Top bar
+2022-05-20 15:59:49.384 [main] INFO  HomePage - Clicked On SofaBeds in Living Section
+2022-05-20 15:59:49.491 [main] INFO  SofaBeds - Sofa Bed Is Displayed
+2022-05-20 16:00:10.173 [main] INFO  HomePage - Clicked On Stores on Top of the Page
+2022-05-20 16:00:10.235 [main] INFO  StoresPage - Urban Ladder Store in Noida :: Mall Of India, Noida
+2022-05-20 16:00:18.860 [main] INFO  HomePage - CLicked on Living in Top bar
+2022-05-20 16:00:20.720 [main] INFO  HomePage - Clicked On Sofa in Living Section
+2022-05-20 16:00:22.717 [main] INFO  SofaPage - Clicked On Lewis Sofa
+2022-05-20 16:00:23.135 [main] INFO  SofaPage - EMI option is available
+2022-05-20 16:00:31.313 [main] INFO  HomePage - Clicked On User Icon
+2022-05-20 16:00:32.037 [main] INFO  HomePage - Clicked On Log In
+2022-05-20 16:00:35.085 [main] INFO  HomePage - Entered Log In Email
+2022-05-20 16:00:35.242 [main] INFO  HomePage - Entered Log In password
+2022-05-20 16:00:36.829 [main] INFO  HomePage - Log In
+2022-05-20 16:00:37.193 [main] INFO  HomePage - CLicked on Living in Top bar
+2022-05-20 16:00:38.994 [main] INFO  HomePage - Clicked On Sofa in Living Section
+2022-05-20 16:00:50.218 [main] INFO  SofaPage - Clicked On Chelsea Sofa
+2022-05-20 16:00:50.420 [main] INFO  WishListPage - Item added to WishList
+2022-05-20 16:00:51.475 [main] INFO  HomePage - Clicked On WishList Icon
+2022-05-20 16:00:51.721 [main] INFO  WishListPage - Item is added to wishlist
+2022-05-20 16:01:01.212 [main] INFO  HomePage - Clicked On User Icon
+2022-05-20 16:01:01.420 [main] INFO  HomePage - Clicked On Log In
+2022-05-20 16:01:04.698 [main] INFO  HomePage - Entered Log In Email
+2022-05-20 16:01:04.929 [main] INFO  HomePage - Entered Log In password
+2022-05-20 16:01:06.489 [main] INFO  HomePage - Log In
+2022-05-20 16:01:07.534 [main] INFO  HomePage - Clicked On WishList Icon
+2022-05-20 16:01:07.721 [main] INFO  WishListPage - Item is in present in WishList
+2022-05-20 16:01:07.939 [main] INFO  WishListPage - Clicked On Added to WishList Icon
+2022-05-20 16:01:10.537 [main] INFO  WishListPage - Item is removed from WishList
+2022-05-20 16:01:10.726 [main] INFO  WishListPage - WishLIst Is Empty
+2022-05-20 16:01:19.115 [main] INFO  HomePage - Clicked On User Icon
+2022-05-20 16:01:25.171 [main] INFO  HomePage - Clicked On User Icon
+2022-05-20 16:01:25.648 [main] INFO  HomePage - Clicked On Log In
+2022-05-20 16:01:29.359 [main] INFO  HomePage - Entered Log In Email
+2022-05-20 16:01:29.593 [main] INFO  HomePage - Entered Log In password
+2022-05-20 16:01:31.260 [main] INFO  HomePage - Log In
+2022-05-20 16:01:32.617 [main] INFO  HomePage - Clicked On Cart Icon
+2022-05-20 16:05:43.538 [main] INFO  HomePage - Clicked On Contact Us in Last Of The Page
+2022-05-20 16:05:43.728 [main] INFO  ContactUsPage - Landed on Contact Us Page
+2022-05-20 16:05:53.032 [main] INFO  HomePage - Clicked On User Icon
+2022-05-20 16:05:53.851 [main] INFO  HomePage - Clicked On Sign Up
+2022-05-20 16:05:56.684 [main] INFO  HomePage - Entered Sign Up email
+2022-05-20 16:05:56.919 [main] INFO  HomePage - Entered Sign up password
+2022-05-20 16:05:57.996 [main] INFO  HomePage - Submitted Sign Up
+2022-05-20 16:06:06.726 [main] INFO  HomePage - Clicked On User Icon
+2022-05-20 16:06:07.324 [main] INFO  HomePage - Clicked On Log In
+2022-05-20 16:06:10.392 [main] INFO  HomePage - Entered Log In Email
+2022-05-20 16:06:10.560 [main] INFO  HomePage - Entered Log In password
+2022-05-20 16:06:12.184 [main] INFO  HomePage - Log In
+2022-05-20 16:06:20.552 [main] INFO  HomePage - CLicked on Living in Top bar
+2022-05-20 16:06:22.300 [main] INFO  HomePage - Clicked On SofaBeds in Living Section
+2022-05-20 16:06:22.442 [main] INFO  SofaBeds - Sofa Bed Is Displayed
+2022-05-20 16:06:41.623 [main] INFO  HomePage - Clicked On Stores on Top of the Page
+2022-05-20 16:06:41.672 [main] INFO  StoresPage - Urban Ladder Store in Noida :: Mall Of India, Noida
+2022-05-20 16:06:51.858 [main] INFO  HomePage - CLicked on Living in Top bar
+2022-05-20 16:06:54.064 [main] INFO  HomePage - Clicked On Sofa in Living Section
+2022-05-20 16:06:55.834 [main] INFO  SofaPage - Clicked On Lewis Sofa
+2022-05-20 16:06:56.363 [main] INFO  SofaPage - EMI option is available
+2022-05-20 16:07:01.012 [main] INFO  HomePage - Clicked On User Icon
+2022-05-20 16:07:01.379 [main] INFO  HomePage - Clicked On Log In
+2022-05-20 16:07:05.058 [main] INFO  HomePage - Entered Log In Email
+2022-05-20 16:07:05.239 [main] INFO  HomePage - Entered Log In password
+2022-05-20 16:07:07.119 [main] INFO  HomePage - Log In
+2022-05-20 16:07:07.557 [main] INFO  HomePage - CLicked on Living in Top bar
+2022-05-20 16:07:10.050 [main] INFO  HomePage - Clicked On Sofa in Living Section
+2022-05-20 16:07:13.894 [main] INFO  SofaPage - Clicked On Chelsea Sofa
+2022-05-20 16:07:14.457 [main] INFO  WishListPage - Item added to WishList
+2022-05-20 16:07:16.136 [main] INFO  HomePage - Clicked On WishList Icon
+2022-05-20 16:07:16.726 [main] INFO  WishListPage - Item is added to wishlist
+2022-05-20 16:07:25.771 [main] INFO  HomePage - Clicked On User Icon
+2022-05-20 16:07:26.062 [main] INFO  HomePage - Clicked On Log In
+2022-05-20 16:07:29.248 [main] INFO  HomePage - Entered Log In Email
+2022-05-20 16:07:29.426 [main] INFO  HomePage - Entered Log In password
+2022-05-20 16:07:30.913 [main] INFO  HomePage - Log In
+2022-05-20 16:07:32.014 [main] INFO  HomePage - Clicked On WishList Icon
+2022-05-20 16:07:32.217 [main] INFO  WishListPage - Item is in present in WishList
+2022-05-20 16:07:32.374 [main] INFO  WishListPage - Clicked On Added to WishList Icon
+2022-05-20 16:07:34.700 [main] INFO  WishListPage - Item is removed from WishList
+2022-05-20 16:07:34.848 [main] INFO  WishListPage - WishLIst Is Empty
+2022-05-20 16:07:43.189 [main] INFO  HomePage - Clicked On User Icon
+2022-05-20 16:07:43.835 [main] INFO  HomePage - Clicked On Log In
+2022-05-20 16:07:46.798 [main] INFO  HomePage - Entered Log In Email
+2022-05-20 16:07:47.103 [main] INFO  HomePage - Entered Log In password
+2022-05-20 16:07:48.538 [main] INFO  HomePage - Log In
+2022-05-20 16:07:48.891 [main] INFO  HomePage - CLicked on Living in Top bar
+2022-05-20 16:07:50.498 [main] INFO  HomePage - Clicked On Sofa in Living Section
+2022-05-20 16:07:54.693 [main] INFO  SofaPage - Clicked Malabar Sofa
+2022-05-20 16:07:57.932 [main] INFO  CartPage - Item Added to Cart
+2022-05-20 16:08:06.371 [main] INFO  HomePage - Clicked On User Icon
+2022-05-20 16:08:07.147 [main] INFO  HomePage - Clicked On Log In
+2022-05-20 16:08:10.050 [main] INFO  HomePage - Entered Log In Email
+2022-05-20 16:08:10.297 [main] INFO  HomePage - Entered Log In password
+2022-05-20 16:08:11.952 [main] INFO  HomePage - Log In
+2022-05-20 16:08:13.465 [main] INFO  HomePage - Clicked On Cart Icon
+2022-05-20 16:08:16.667 [main] INFO  CartPage - Item removed from cart & Cart Is Empty
